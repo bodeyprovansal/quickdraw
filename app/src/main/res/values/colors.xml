@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UI Colors -->
+    <color name="colorPrimary">#B0E0E6</color>
+    <color name="colorPrimaryDark">#607Faa</color>
+    <color name="colorAccent">#607D8B</color>
+    <color name="colorLightPrimary">#B0E0E6</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorCanvas">#EEEEEE</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <!-- Palette Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="purple">#800080</color>
+    <color name="light_slate_gray">#778899</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <!-- UI descriptions and text -->
+    <string name="app_name">Quick Draw</string>
+    <string name="next_btn">Next Idea</string>
+    <string name="desc_btn">Button</string>
+    <string name="default_idea">Click For A New Prompt</string>
+    <string name="timer_text">0:00</string>
+    <string name="dialog_title">Time\'s Up!</string>
+    <string name="dialog_msg">That was a minute, do you want a new idea?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No, keep drawing</string>
+    <!-- Drawing Prompts -->
+    <string name="string1">Automaton</string>
+    <string name="string2">Bear</string>
+    <string name="string3">Cactus</string>
+    <string name="string4">Dirigible</string>
+    <string name="string5">Elephants</string>
+    <string name="string6">Fearsome</string>
+    <string name="string7">Ginormous</string>
+    <string name="string8">Hectic</string>
+    <string name="string9">Igloo</string>
+    <string name="string10">Jewell</string>
+    <string name="string11">Kinematic</string>
+    <string name="string12">Loops</string>
+    <string name="string13">Marching</string>
+    <string name="string14">Needles</string>
+    <string name="string15">Octopus</string>
+    <string name="string16">Prim</string>
+    <string name="string17">Quills</string>
+    <string name="string18">Raucous</string>
+    <string name="string19">Silent</string>
+    <string name="string20">Tumultuous</string>
+    <string name="string21">Usurp</string>
+    <string name="string22">Vow</string>
+    <string name="string23">Weepy</string>
+    <string name="string24">X Marks The Spot</string>
+    <string name="string25">Yipee!</string>
+    <string name="string26">Zoinks!</string>
+</resources>
